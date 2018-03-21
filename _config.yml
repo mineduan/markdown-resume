@@ -1,0 +1,8 @@
+title: Markdown Resume Builder
+description: An elegant set of css rules for generating a resume with Markdown
+google_analytics: UA-8504376-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
